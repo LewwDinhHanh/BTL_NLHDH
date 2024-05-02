@@ -1,0 +1,32 @@
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.exe.config
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.exe
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.pdb
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.AssemblyReference.cache
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.Form1.resources
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.Properties.Resources.resources
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.GenerateResource.cache
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.CoreCompileInputs.cache
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.exe
+C:\Users\Tran Phi\source\repos\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.pdb
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.exe.config
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.exe
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.pdb
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.Form1.resources
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.Properties.Resources.resources
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.exe
+C:\Users\Admin\Desktop\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.pdb
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.exe.config
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.exe
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\bin\Debug\BTL_HĐH.pdb
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.Form1.resources
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.Properties.Resources.resources
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.exe
+C:\Users\Admin\Desktop\2023\API_NLHDH\BTL_HĐH\BTL_HĐH\obj\Debug\BTL_HĐH.pdb
